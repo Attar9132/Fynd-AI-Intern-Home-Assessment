@@ -1,0 +1,52 @@
+[
+  {
+    "id": "20251207032601",
+    "timestamp": "2025-12-07 03:26:01",
+    "rating": 4,
+    "review": "Loved it! Great place to hangout.",
+    "ai_response": "Thank you for your 4-star review! We appreciate your feedback.",
+    "ai_summary": "4 star review: Loved it! Great place to hangout....",
+    "ai_actions": [
+      "Analyze this feedback",
+      "Share with relevant team"
+    ]
+  },
+  {
+    "id": "20251207033033",
+    "timestamp": "2025-12-07 03:30:33",
+    "rating": 1,
+    "review": "Could be better. Bad experience.",
+    "ai_response": "Thank you for your 1-star review! We appreciate your feedback.",
+    "ai_summary": "1 star review: Could be better. Bad experience....",
+    "ai_actions": [
+      "Analyze this feedback",
+      "Share with relevant team"
+    ]
+  },
+  {
+    "id": "20251207033921",
+    "timestamp": "2025-12-07 03:39:21",
+    "rating": 1,
+    "review": "worst place for dinner.",
+    "ai_response": "We sincerely apologize for your disappointing experience. We take your feedback seriously and will address these issues immediately.",
+    "ai_summary": "Critical 1-star review requiring urgent attention.",
+    "ai_actions": [
+      "Immediate customer follow-up",
+      "Staff retraining",
+      "Quality control review"
+    ]
+  },
+  {
+    "id": "20251207035233",
+    "timestamp": "2025-12-07 03:52:33",
+    "rating": 4,
+    "review": "Loved being here. excellent service.",
+    "ai_response": "Thank you for your positive review! We're delighted you enjoyed your experience and hope to see you again soon!",
+    "ai_summary": "Positive review with high satisfaction.",
+    "ai_actions": [
+      "Share with team for motivation",
+      "Reinforce positive practices",
+      "Thank the staff involved"
+    ]
+  }
+]
