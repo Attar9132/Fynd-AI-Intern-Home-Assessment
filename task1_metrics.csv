@@ -1,0 +1,4 @@
+prompt_version,accuracy,json_validity_rate,mae,valid_predictions,total_samples
+v1,0.37,1.0,0.855,200,200
+v2,0.055,1.0,2.35,200,200
+v3,0.31,1.0,0.935,200,200
